@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Initialize variables
-        GIT_USERNAME = 'SahadevDahit'  // Update with your GitHub username
+        GIT_USERNAME = 'lnahuel1991'  // Update with your GitHub username
         GIT_TOKEN_CREDENTIALS_ID = 'access-token'  // Update with the ID of your GitHub PAT credential
     }
 
