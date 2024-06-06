@@ -13,4 +13,4 @@ spec:
           service:
             name: test-node-service
             port:
-              number: 8082
+              number: 80
