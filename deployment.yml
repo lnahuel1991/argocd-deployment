@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: test-node-container
-        image: lnahuel/node-argocd:6
+        image: lnahuel/node-argocd:7
         ports:
         - containerPort: 4000
         env:
